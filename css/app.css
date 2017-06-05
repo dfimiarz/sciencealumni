@@ -1,0 +1,32 @@
+.portal-wrapper{
+    padding: 20px;
+     background-color: #9E4EC1;
+     color: white;
+}
+
+.top-bar{
+    background-color: gold;
+
+}
+
+.orbit-wrapper{
+    background-color: #9E4EC1;
+}
+
+.nav-menu {
+    background-color: #FFE65F !important;
+
+}
+
+.outer-columns{
+    padding: 0px !important;
+}
+
+section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.section-header{
+    padding-bottom: 50px;
+}
