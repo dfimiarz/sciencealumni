@@ -1,7 +1,6 @@
 .portal-wrapper{
     padding: 20px;
-     background-color: #9E4EC1;
-     color: white;
+    color: white;
 }
 
 .top-bar{
@@ -10,12 +9,12 @@
 }
 
 .orbit-wrapper{
-    background-color: #9E4EC1;
+    background-color: #7D5CC6;
 }
 
 .nav-menu {
     background-color: #FFE65F !important;
-
+    
 }
 
 .outer-columns{
@@ -30,3 +29,23 @@ section{
 .section-header{
     padding-bottom: 50px;
 }
+
+
+.network-card{
+    border-radius: 5px;
+    box-shadow: 0 10px 20px 0 rgba(black,0.6);
+    padding: 2px;
+    background-color: #FFF2AE;
+}
+
+.network-card .card-divider{
+    background-color: #FFEC82;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.divider-icon{
+    width: 64px;
+}
+
+
